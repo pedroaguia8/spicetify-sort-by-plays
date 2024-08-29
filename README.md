@@ -1,16 +1,6 @@
-# Spicetify Creator
+# sort-by-plays, a [Spicetify](https://github.com/spicetify) extension
 
-Spicetify Creator is a tool to compile modern Typescript/Javascript code to Spicetify extensions and custom apps.
-
-## Features
-- Typescript and React syntax
-- Import node packages
-- CSS/SCSS with PostCSS support
-- Extremely fast compile time with esbuild.
-- Plugins
-
-## Docs
-Check out [Spicetify's docs](https://spicetify.app/docs/development/spicetify-creator/the-basics)!
+Project suspended until the Spotify API provides track plays information.
 
 ## Made with Spicetify Creator
 - https://github.com/spicetify/spicetify-creator
